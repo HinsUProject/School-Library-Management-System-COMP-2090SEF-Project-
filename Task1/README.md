@@ -2,4 +2,5 @@
 Team: CHANG Tsz-Hin, Tin Hiu-Yeung, Lau Pak-Yin
 
 This is a project about School Library Management System using basic Object-Oriented Programming
-and also a self study about data structure and algrithm of Python.
+
+*Please note that this is only a preliminary version of the project
