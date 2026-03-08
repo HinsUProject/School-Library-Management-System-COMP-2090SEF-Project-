@@ -1,0 +1,4 @@
+B002|Book2|author2|genre2
+B003|Book3|author3|genre3
+B004|Book4|author4|genre4
+B004|Book4|author4|genre4
