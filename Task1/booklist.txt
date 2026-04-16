@@ -1,0 +1,4 @@
+B001|The Hunger Games|Suzanne Collins|Young Adult|Available
+B002|The Three Musketeers|Alexandre Dumas|Adventure|Borrowed
+B003|Harry Potter|J. K. Rowling|Fantasy|Available
+B004|The Lord of the Rings|J.R.R. Tolkien|Fantasy|Available
