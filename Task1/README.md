@@ -24,4 +24,4 @@ Link to our project introduction video: https://www.youtube.com/watch?v=xWY8BLdK
 * Live Status: Displays a real-time count of total, available, and borrowed books.
 * Auto-Saving: All changes are automatically saved to booklist.txt.
 ### Borrow/Return System
-History Log: Saves every borrow/return records in Borrowlog.txt and display in the application.
+* History Log: Saves every borrow/return records in Borrowlog.txt and display in the application.
