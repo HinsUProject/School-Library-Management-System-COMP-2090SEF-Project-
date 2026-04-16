@@ -14,15 +14,14 @@ Link to our project introduction video: https://www.youtube.com/watch?v=xWY8BLdK
 1. Download **ALL FILES (main_program.py, interface.py, library_system.py, booklist.txt, Borrowlog.txt)** and put them in the same folder.
 2. Run the **main_program.py** on Integrated Development Environment(IDE) such as Thonny and Visual Code Studio.
 ### How to use
-1. Add books by entering book detail in the text boxes in the **left panel** and click the "Add book" button.
-2. Delete
-3. Click the **Show All Records** button the show the graph of all records.
+1. Add books by entering book details in the text boxes in the **left panel** and click the "Add book" button.
+2. Delete a book by clicking the "Delete" button next to the book.
+3. Add a borrow record, by entering the BID and SID and click the "Borrow book" button.
+4. Add a return record, by entering the BID and SID and click the "Return book" button.
 
 ## Functions and Features
-### Data Management (Graph)
-* add_node(): Initializes a new student or book that does not already exist in the records.
-* add_edge():Creates a mutual connection between a student and a book to show they are related in the borrowing records, allowing the system to be searched from either direction.
-* get_records(): Provides a full overview of every student, book, and connection currently stored in the system's memory.
-* get_related(): Return all connections of a specific student or book.
-### Searching method (DFS)
-* dfs(): Uses Depth First Search algorithm to search for the entire borrowing chain. It can find groups of students and books that are linked together through multiple connections.
+### Book Inventory System
+* Live Status: Displays a real-time count of total, available, and borrowed books.
+* Auto-Saving: All changes are automatically saved to booklist.txt.
+### Borrow/Return System
+History Log: Saves every borrow/return records in Borrowlog.txt and display in the application.
