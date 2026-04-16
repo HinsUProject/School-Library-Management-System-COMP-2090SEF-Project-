@@ -10,10 +10,12 @@ This project demonstrates how complex, multi-connected relationships (like stude
 Link to our project introduction video: https://www.youtube.com/watch?v=20d0fpd30xU
 
 ## User guide
-1. Download the **borrowing record with graph and DFS.py** file and run it on an Integrated Development Environment(IDE) such as Thonny and Visual Code Studio.
-2. Enter the "student name" and the "book name" then click the **Add Record** button to add a new record to the system.
-3. Input the name of the student name that you want to search and click the **Search connections** button a get all books that were borrowed by the student.
-4. Click the **Show All Records** button the show the graph of all records.
+### How to run
+* 1. Download the **borrowing record with graph and DFS.py** file and run it on an Integrated Development Environment(IDE) such as Thonny and Visual Code Studio.
+### How to use
+1. Enter the "student name" and the "book name" then click the **Add Record** button to add a new record to the system.
+2. Input the name of the student name that you want to search and click the **Search connections** button a get all books that were borrowed by the student.
+3. Click the **Show All Records** button the show the graph of all records.
 
 ## Functions and Features
 ### Data Management (Graph)
