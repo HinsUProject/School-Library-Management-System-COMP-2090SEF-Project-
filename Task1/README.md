@@ -11,7 +11,7 @@ Link to our project introduction video: https://www.youtube.com/watch?v=xWY8BLdK
 
 ## User guide
 ### How to run
-1. Download **ALL FILES (main_program.py, interface.py, library_system.py, booklist.txt, Borrowlog.txt)** and put them in the same folder.
+1. Download **ALL FILES (main_program.py, interface.py, library_system.py, booklist.txt, Borrowlog.txt)** and put them into the same folder.
 2. Run the **main_program.py** on Integrated Development Environment(IDE) such as Thonny and Visual Code Studio.
 ### How to use
 1. Add books by entering book details in the text boxes in the **left panel** and click the "Add book" button.
