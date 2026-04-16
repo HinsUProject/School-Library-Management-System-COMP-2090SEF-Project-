@@ -1,4 +1,4 @@
-School-Library-Management-System-COMP2090SEF-Project
+# Library borrowing record using Graph & DFS
 ============================================================
 Team: CHANG Tsz-Hin, Tin Hiu-Yeung, Lau Pak-Yin
 
