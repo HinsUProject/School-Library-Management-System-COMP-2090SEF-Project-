@@ -17,7 +17,7 @@ This project demonstrates how complex, multi-connected relationships (like stude
 * dfs(): Uses Depth First Search algorithm to search for the entire borrowing chain. It can find groups of students and books that are linked together through multiple connections.
 
 ## User guide
-1. Download the **borrowing record with graph and DFS.py** file and run it on an Integrated Development Environment(IDE).
+1. Download the **borrowing record with graph and DFS.py** file and run it on an Integrated Development Environment(IDE) such as Thonny and Visual Code Studio.
 2. Enter the "student name" and the "book name" then click the **Add Record** button to add a new record to the system.
 3. Input the name of the student name that you want to search and click the **Search connections** button a get all books that were borrowed by the student.
 4. Click the **Show All Records** button the show the graph of all records.
