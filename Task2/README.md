@@ -9,5 +9,5 @@ This project demonstrates how complex, multi-connected relationships (like stude
 
 ## Functions and Features
 ### Data Management (Graph)
-add_node(): Initializes a new student or book that does not already exist in the records.
-add_edge():Creates a mutual connection between a student and a book to show they are related in the borrowing records,   allowing the system to be searched from either direction.
+*add_node(): Initializes a new student or book that does not already exist in the records.
+*add_edge():Creates a mutual connection between a student and a book to show they are related in the borrowing records,   allowing the system to be searched from either direction.
